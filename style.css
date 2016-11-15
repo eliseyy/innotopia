@@ -159,6 +159,11 @@ h3{
     position: relative;
     min-width: 960px;
 }
+.app-main .we-can-do-article .container .row>div figure svg {
+    max-width: 98px;
+    max-height: 105px;
+    fill: #e8820f;
+}
 .app-main .we-can-do-article .app-section {
     background-color: #fff;
     position: absolute;
@@ -382,6 +387,7 @@ h3{
  }
 .say-article .say-panel{
     position: relative;
+    display:block;
 }
 .say-article .container-fluid .row>div .panel-group .panel-body > h4{
     color:#fff;
